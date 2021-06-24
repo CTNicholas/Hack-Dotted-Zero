@@ -6,7 +6,7 @@ This was edited for use on my [blog](https://www.ctnicholas.dev).
 
 ![Hack Dotted Zero Demo 1](img-hack-dotted-zero.png)
 
-- Filled zero now a dotted zero
+- Filled zero is now a dotted zero.
 - All weights have been updated.
 - `ttf`, `woff`, and `woff2` file types included.
 - Modified version is Hack release as of *24th June 2021*. 
