@@ -9,7 +9,7 @@ This was edited for use on my [blog](https://www.ctnicholas.dev).
 - Filled zero now a dotted zero
 - All weights have been updated.
 - `ttf`, `woff`, and `woff2` file types included.
-- MIT license
 - Modified version is Hack release as of *24th June 2021*. 
+- MIT license.
 
 ![Hack Dotted Zero Demo 2](img-code-demo.png)
