@@ -1,6 +1,6 @@
 # Hack Dotted Zero
 Hack Dotted Zero is the wonderful [Hack](https://github.com/source-foundry/Hack) font, with the filled zero replaced with a dotted zero.
-This for use on my [blog](https://www.ctnicholas.dev).
+This was edited for use on my [blog](https://www.ctnicholas.dev).
 
 ![Hack Dotted Zero Demo 1](img-hack.png)
 
